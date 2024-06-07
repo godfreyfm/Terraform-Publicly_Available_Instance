@@ -1,6 +1,7 @@
 # Deploying a publicly Accessible ec2 instance in AWS through IAC (Terraform)
 
 In this project, we will deploy an EC2 instance on AWS. We will set up a new VPC, configure public and private subnets, and launch an EC2 instance using the Ubuntu AMI. Ensure to utilize Terraform for creating as many resources as possible, and remember to delete all resources at the end of the project to prevent unnecessary costs.
+![Image of Architecture](./assets/Terraform-exercise-1.jpg))
 
 # What my Tree Structure Looks Like
 ```
