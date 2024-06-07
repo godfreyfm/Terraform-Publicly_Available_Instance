@@ -3,7 +3,7 @@
 In this project, we will deploy an EC2 instance on AWS. We will set up a new VPC, configure public and private subnets, and launch an EC2 instance using the Ubuntu AMI. Ensure to utilize Terraform for creating as many resources as possible, and remember to delete all resources at the end of the project to prevent unnecessary costs.
 
 # What my Tree Structure Looks Like
-
+```
 |-- backend.tf
 |-- ec2_instances.tf
 |-- main.tf
@@ -21,7 +21,7 @@ In this project, we will deploy an EC2 instance on AWS. We will set up a new VPC
 |-- provider.tf
 |-- terraform.tfvars
 |-- variables.tf
-
+```
 # Desired Outcome
 
 1. Deploy a new VPC in your preferred AWS region.
